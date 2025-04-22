@@ -16,7 +16,7 @@
 ## 🚀 Quick Start
 
 ### 📥 Download
-- The DMG file from here
+- The HabeshNet_Net_Tool_v1.0.dmg file from here
 
 ## 📸 Screenshots
 | Feature | Preview |
