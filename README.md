@@ -1,4 +1,4 @@
-# 🔍 HabeshNet Net Tool - Professional Network Analysis Suite
+# 🔍 HabeshNet Net Tool - Professional Network Analysis tool
 
 ![App Screenshot](screensh.png)  
 *Advanced network diagnostics at your fingertips*
@@ -37,6 +37,29 @@
 3. Drag `HabeshNet Net Tool.app` to your Applications folder  
    *(First launch: Right-click → Open to bypass Gatekeeper)*
 
+---
+# 🔒 Legal Notice
+
+**Copyright © 2025 Dawit Asmerawork. All Rights Reserved.**
+
+The HabeshNet Net Tool software and documentation are protected under copyright laws.  
+Unauthorized reproduction, distribution, or modification is strictly prohibited.
+
+## Permissions
+✅ **Allowed**:  
+- Personal/educational use with original license  
+- Forking for bug reporting (with attribution)  
+
+🚫 **Prohibited**:  
+- Commercial redistribution  
+- Reverse engineering  
+- Removing license notices  
+
+*For licensing inquiries, contact: [david@habeshnet.com](mailto:david@habeshnet.com)*  
+
+[View Full License](LICENSE.txt)
+
 ```bash
 # Optional terminal launch
 open /Applications/HabeshNet\ Net\ Tool.app
+
