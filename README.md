@@ -1,13 +1,8 @@
 # 🔍 HabeshNet Net Tool - Professional Network Analysis Suite
 
-![App Screenshot](assets/screenshot.png)  
+![App Screenshot](screensh.png.png)  
 *Advanced network diagnostics at your fingertips*
-## 🖥️ User Interface
 
-<div align="center">
-  <img src="screensh.png" width="800" alt="Main Interface">
-  <p><em>HabeshNet Net Tool main window with tab navigation</em></p>
-</div>
 
 ## 🌟 Features
 | Feature | Description |
