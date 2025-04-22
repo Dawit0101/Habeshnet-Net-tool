@@ -1,6 +1,6 @@
 # 🔍 HabeshNet Net Tool - Professional Network Analysis Suite
 
-![App Screenshot](screensh.png.png)  
+![App Screenshot](screensh.png)  
 *Advanced network diagnostics at your fingertips*
 
 
