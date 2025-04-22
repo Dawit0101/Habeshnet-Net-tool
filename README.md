@@ -32,7 +32,7 @@
 - Admin privileges for full functionality
 
 ### 🛠️ Installation
-1. Download the `.dmg` file
+1. Download the `HabeshNet_Net_Tool_v1.0.dmg` file
 2. Double-click to mount the disk image
 3. Drag `HabeshNet Net Tool.app` to your Applications folder  
    *(First launch: Right-click → Open to bypass Gatekeeper)*
